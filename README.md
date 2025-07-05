@@ -1,6 +1,6 @@
 # worker-go
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Fsyumai%2Fworker-go-deploy)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Flovercode%2Fworker-go-deploy)
 
 - A template for starting a Cloudflare Worker project with Go.
 - This template uses [`workers`](https://github.com/syumai/workers) package to run an HTTP server.
